@@ -1,7 +1,6 @@
 # 100 Days of Code Challenge
 
 ## 5 Common Analysis Techniques
-
 ### 1_Exploratory Data Analysis
 
 #### General Exploration
