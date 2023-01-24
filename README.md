@@ -1,6 +1,13 @@
 # 100 Days of Code Challenge
 
 ## 5 Common Analysis Techniques
+
+### 2_Correlation Analysis
+- Correlation and p-values
+- with Pandas
+- with scipy.stats
+- with seaborn
+
 ### 1_Exploratory Data Analysis
 
 #### General Exploration
