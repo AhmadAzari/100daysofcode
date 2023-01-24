@@ -2,12 +2,6 @@
 
 ## 5 Common Analysis Techniques
 
-### 2_Correlation Analysis
-- Correlation values & p-value
-- Using pandas
-- Using scipy.stats
-- Using seaborn
-
 ### 1_Exploratory Data Analysis
 
 #### General Exploration
